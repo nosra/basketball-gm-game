@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T22:12:09.481Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="04Q8pa1OjbcxgGGloL8X" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T22:18:02.454Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="Ix-7BSuTa_ZscEMFhMQB" version="22.0.1" type="github">
   <diagram name="Page-1" id="CRVYOWQrbE0ftQAD-L7y">
-    <mxGraphModel dx="989" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1195" dy="690" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -40,11 +40,23 @@
         <mxCell id="PVbGxt40iiAfk506Mw7s-29" value="string Name" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-21">
           <mxGeometry x="140" y="45" width="110" height="110" as="geometry" />
         </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVbGxt40iiAfk506Mw7s-33" target="PVbGxt40iiAfk506Mw7s-45">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="PVbGxt40iiAfk506Mw7s-33" value="Position" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="30" y="60" width="260" height="200" as="geometry" />
         </mxCell>
         <mxCell id="PVbGxt40iiAfk506Mw7s-35" value="string Name" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-33">
-          <mxGeometry x="20" y="60" width="80" height="80" as="geometry" />
+          <mxGeometry x="20" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-37" value="string Offsets&lt;br&gt;(certain positions have different skills)" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-33">
+          <mxGeometry x="140" y="50" width="100" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-45" value="Name" style="swimlane;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="30" y="280" width="260" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-49" value="&lt;span style=&quot;background-color: initial;&quot;&gt;Point Guard&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Small Forward&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Power Forward&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Shooting Guard&lt;/span&gt;&lt;br&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Center&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-45">
+          <mxGeometry y="20" width="260" height="180" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
