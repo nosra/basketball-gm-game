@@ -1,9 +1,42 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T21:38:15.629Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" version="22.0.1" etag="aTBkFRb40d76eSr5LzA1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T22:09:06.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="R3seBxFgFOhH6cAtRNhA" version="22.0.1" type="github">
   <diagram name="Page-1" id="CRVYOWQrbE0ftQAD-L7y">
-    <mxGraphModel>
+    <mxGraphModel dx="989" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="PVbGxt40iiAfk506Mw7s-27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="PVbGxt40iiAfk506Mw7s-1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="529.9999999999998" y="160.0344827586207" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-1" value="Player" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="310" y="60" width="200" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-7" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Attributes&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Skills&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Positions&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Star Power&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Trade Value&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Mood&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-1">
+          <mxGeometry x="15" y="40" width="170" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-10" value="Name" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="532.5" y="280" width="255" height="630" as="geometry">
+            <mxRectangle x="590" y="100" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-11" value="&lt;ul&gt;&lt;li&gt;Outside Scoring&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Close Shot&lt;/li&gt;&lt;li&gt;Mid-Range Shot&lt;/li&gt;&lt;li&gt;Three-Point Shot&lt;/li&gt;&lt;li&gt;Free Throw&lt;/li&gt;&lt;li&gt;Shot IQ&lt;/li&gt;&lt;li&gt;Offensive Consistency&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Inside Scoring&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Layup&lt;/li&gt;&lt;li&gt;Standing Dunk&lt;/li&gt;&lt;li&gt;Driving Dunk&lt;/li&gt;&lt;li&gt;Post Hook&lt;/li&gt;&lt;li&gt;Post Fade&lt;/li&gt;&lt;li&gt;Post Control&lt;/li&gt;&lt;li&gt;Draw Foul&lt;/li&gt;&lt;li&gt;Hands&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Defending&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Defending&lt;/li&gt;&lt;li&gt;Interior Defense&lt;/li&gt;&lt;li&gt;Perimeter Defense&lt;/li&gt;&lt;li&gt;Steal&lt;/li&gt;&lt;li&gt;Block&lt;/li&gt;&lt;li&gt;Lateral Quickness&lt;/li&gt;&lt;li&gt;Help Defense IQ&lt;/li&gt;&lt;li&gt;Pass Perception&lt;/li&gt;&lt;li&gt;Defensive Consistency&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Playmaking&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Playmaking&lt;/li&gt;&lt;li&gt;Pass Accuracy&lt;/li&gt;&lt;li&gt;Ball Handle&lt;/li&gt;&lt;li&gt;Speed with Ball&lt;/li&gt;&lt;li&gt;Pass IQ&lt;/li&gt;&lt;li&gt;Pass Vision&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Rebounding&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Rebounding&lt;/li&gt;&lt;li&gt;Offensive Rebound&lt;/li&gt;&lt;li&gt;Defensive Rebound&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-10">
+          <mxGeometry x="12.5" y="40" width="230" height="570" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="PVbGxt40iiAfk506Mw7s-21" target="PVbGxt40iiAfk506Mw7s-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-21" value="Skill Class" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
+          <mxGeometry x="530" y="60" width="260" height="200" as="geometry">
+            <mxRectangle x="590" y="100" width="70" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-26" value="int Ability&lt;br&gt;0-100" style="whiteSpace=wrap;html=1;aspect=fixed;align=center;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-21">
+          <mxGeometry x="12.5" y="45" width="110" height="110" as="geometry" />
+        </mxCell>
+        <mxCell id="PVbGxt40iiAfk506Mw7s-29" value="string Name" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-21">
+          <mxGeometry x="140" y="45" width="110" height="110" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
