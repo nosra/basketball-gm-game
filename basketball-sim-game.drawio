@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-10-02T22:09:06.724Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="R3seBxFgFOhH6cAtRNhA" version="22.0.1" type="github">
+<mxfile host="app.diagrams.net" modified="2023-10-02T22:09:38.622Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36" etag="-1lzABFJUglw76mxWrI_" version="22.0.1" type="github">
   <diagram name="Page-1" id="CRVYOWQrbE0ftQAD-L7y">
     <mxGraphModel dx="989" dy="571" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
@@ -12,8 +12,8 @@
         <mxCell id="PVbGxt40iiAfk506Mw7s-1" value="Player" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="310" y="60" width="200" height="200" as="geometry" />
         </mxCell>
-        <mxCell id="PVbGxt40iiAfk506Mw7s-7" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Attributes&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Skills&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Positions&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Star Power&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Trade Value&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Mood&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-1">
-          <mxGeometry x="15" y="40" width="170" height="120" as="geometry" />
+        <mxCell id="PVbGxt40iiAfk506Mw7s-7" value="&lt;ul style=&quot;&quot;&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Attributes&lt;/span&gt;&lt;/li&gt;&lt;ul&gt;&lt;li style=&quot;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;Skills&lt;/span&gt;&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Positions&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Star Power&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Trade Value&lt;/li&gt;&lt;li style=&quot;&quot;&gt;Mood&lt;/li&gt;&lt;/ul&gt;&lt;li&gt;Bio&lt;/li&gt;&lt;ul&gt;&lt;li&gt;Name&lt;/li&gt;&lt;li&gt;Age&lt;/li&gt;&lt;li&gt;Height&lt;/li&gt;&lt;/ul&gt;&lt;/ul&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;labelBackgroundColor=none;" vertex="1" parent="PVbGxt40iiAfk506Mw7s-1">
+          <mxGeometry x="15" y="20" width="170" height="180" as="geometry" />
         </mxCell>
         <mxCell id="PVbGxt40iiAfk506Mw7s-10" value="Name" style="swimlane;whiteSpace=wrap;html=1;labelBackgroundColor=none;" vertex="1" parent="1">
           <mxGeometry x="532.5" y="280" width="255" height="630" as="geometry">
